@@ -3,7 +3,7 @@ import sys
 
 abspath = os.path.abspath(sys.argv[0])
 dname = os.path.dirname(abspath)
-file = (r'Day1\P1.txt')
+file = (r'Day1\D1input.txt')
 
 
 def findnumbers(arg1):
